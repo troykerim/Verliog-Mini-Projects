@@ -9,7 +9,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 ## Task List (In no particular order)
 - ~~Half Adder~~
 - ~~Full Adder~~
-- N Bit Full Adder
+- ~~N Bit Full Adder~~
 - Ripple Carry Adder
 - Carry Select Adder
 - Barrel Shifter
