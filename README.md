@@ -7,8 +7,8 @@ Each folder will contain associated files for a particular project and will incl
 The goal of this repo is to not only demostrate that I have an understanding of Verilog and digital logic but also as a quick reference repo for common circuits.
 
 ## Task List (In no particular order)
-- Half Adder
-- Full Adder
+- ~~Half Adder~~
+- ~~Full Adder~~
 - N Bit Full Adder
 - Ripple Carry Adder
 - Carry Select Adder
