@@ -10,7 +10,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Half Adder~~
 - ~~Full Adder~~
 - ~~N Bit Full Adder~~
-- Ripple Carry Adder
+- ~~Ripple Carry Adder~~
 - Carry Select Adder
 - Barrel Shifter
 - D FF
@@ -31,3 +31,4 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Stack
 - Clk divider
 - Clk skewing 
+- Ring Counter 
