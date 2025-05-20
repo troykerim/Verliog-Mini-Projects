@@ -11,10 +11,12 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Full Adder~~
 - ~~N Bit Full Adder~~
 - ~~Ripple Carry Adder~~
-- Carry Select Adder
+- ~~Carry Select Adder~~
 - Barrel Shifter
 - D FF
+- Other types of DFFs
 - Latch
+- Shift Register
 - Mux
 - DeMux
 - Scalable Mux
