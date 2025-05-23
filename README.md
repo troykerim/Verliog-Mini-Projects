@@ -1,6 +1,5 @@
 # Verliog Mini Projects
 
-
 ## Overview
 This repo will contain an assorment various digital logic circuits implemented in Verilog for quick reference.  
 Each folder will contain associated files for a particular project and will include the test bench, console output, schematic and waveforms.
@@ -12,10 +11,12 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~N Bit Full Adder~~
 - ~~Ripple Carry Adder~~
 - ~~Carry Select Adder~~
-- Barrel Shifter
-- D FF
-- Other types of DFFs
+- ~~Carry Lookahead Adder~~
+- ~~D FF~~
 - Latch
+- Other types of D FF
+- Barrel Shifter
+- Other types of DFFs
 - Shift Register
 - Mux
 - DeMux
@@ -25,7 +26,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD
-- Shift register
+- Shift register 
 - ROM
 - RAM
 - FIFO
@@ -34,3 +35,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Clk divider
 - Clk skewing 
 - Ring Counter 
+- Divison
+- Restoring divison
+- Nonrestoring divison
+- Floating point
