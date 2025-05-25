@@ -13,7 +13,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Carry Select Adder~~
 - ~~Carry Lookahead Adder~~
 - ~~D FF~~
-- Latch
+- ~~Latch~~
 - Other types of D FF
 - Barrel Shifter
 - Other types of DFFs
