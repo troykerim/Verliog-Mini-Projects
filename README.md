@@ -18,7 +18,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Barrel Shifter
 - Other types of DFFs
 - Shift Register
-- Mux
+- ~~Mux~~
 - DeMux
 - Scalable Mux
 - Encoder
