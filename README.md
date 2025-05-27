@@ -19,7 +19,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Other types of DFFs
 - Shift Register
 - ~~Mux~~
-- DeMux
+- ~~DeMux~~
 - Scalable Mux
 - Encoder
 - Decoder
