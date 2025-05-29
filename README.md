@@ -15,7 +15,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~D FF~~
 - ~~Latch~~
 - ~~Other types of D FF~~
-- Barrel Shifter
+- ~~Barrel Shifter~~
 - Shift Register
 - ~~Mux~~
 - ~~DeMux~~
