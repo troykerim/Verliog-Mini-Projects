@@ -21,7 +21,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~DeMux~~
 - ~~Scalable Mux~~
 - Encoder
-- Decoder
+- ~~Decoder~~
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD
