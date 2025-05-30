@@ -20,7 +20,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Mux~~
 - ~~DeMux~~
 - ~~Scalable Mux~~
-- Encoder
+- ~~Encoder~~
 - ~~Decoder~~
 - Debouncer
 - Seven Segment Display PMOD
