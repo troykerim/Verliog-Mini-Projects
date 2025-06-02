@@ -16,7 +16,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Latch~~
 - ~~Other types of D FF~~
 - ~~Barrel Shifter~~
-- Shift Register
+- ~~Shift Register~~
 - ~~Mux~~
 - ~~DeMux~~
 - ~~Scalable Mux~~

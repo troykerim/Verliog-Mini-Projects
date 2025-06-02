@@ -1,6 +1,8 @@
 /*
     Basic Shift Register
     4-bit, right shift
+
+    AKA a SISO (Serial in, Serial Out)
 */
 `timescale 1ns / 1ps
 module shift_register(
