@@ -25,7 +25,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD
-- Shift register 
+- ~~Shift register ~~
 - ROM
 - RAM
 - FIFO
