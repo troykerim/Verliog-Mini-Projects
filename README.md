@@ -24,6 +24,7 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Decoder~~
 - ~~Shift register ~~
 - ~~Ring Counter~~
+- ~~Clock divider~~
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD
@@ -32,7 +33,6 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - FIFO
 - LIFO
 - Stack
-- Clk divider
 - Clk skewing 
 - Divison
 - Restoring divison
