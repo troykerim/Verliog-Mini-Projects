@@ -22,10 +22,11 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Scalable Mux~~
 - ~~Encoder~~
 - ~~Decoder~~
+- ~~Shift register ~~
+- ~~Ring Counter~~
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD
-- ~~Shift register ~~
 - ROM
 - RAM
 - FIFO
@@ -33,7 +34,6 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - Stack
 - Clk divider
 - Clk skewing 
-- Ring Counter 
 - Divison
 - Restoring divison
 - Nonrestoring divison
