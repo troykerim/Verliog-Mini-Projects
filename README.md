@@ -25,6 +25,9 @@ The goal of this repo is to not only demostrate that I have an understanding of 
 - ~~Shift register ~~
 - ~~Ring Counter~~
 - ~~Clock divider~~
+- UART
+- SPI
+- I2C
 - Debouncer
 - Seven Segment Display PMOD
 - 4x4 Keypad PMOD

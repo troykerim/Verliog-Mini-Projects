@@ -23,3 +23,7 @@ module ring_counter #(parameter WIDTH=4)
       end
   end
 endmodule
+
+
+
+
